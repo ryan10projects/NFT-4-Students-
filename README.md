@@ -2,6 +2,6 @@ Aimed at NFT for Students,
 Source code is currently private, still in development
 
 <p align="center">
-  <img src="https://github.com/ryan10projects/Nft_4_Students/blob/main/Home%20page.PNG" width="350" title="hover text">
+  <img src="https://github.com/ryan10projects/Nft_4_Students/blob/main/Home%20page.PNG" width="600" title="hover text">
 
 </p>

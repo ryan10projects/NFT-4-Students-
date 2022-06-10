@@ -6,4 +6,9 @@
 
 ### Purchase through metamask
 <img src="https://github.com/ryan10projects/Nft_4_Students/blob/main/Metamask%20wallet%20purchases.PNG" width="600" title="Home Page">
+
+### Purchase success
+<img src="https://github.com/ryan10projects/Nft_4_Students/blob/main/Purchase%20complete.PNG" width="600" title="Home Page">
 </p>
+
+

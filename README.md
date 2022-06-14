@@ -10,7 +10,7 @@
 ### Upload NFT using metaMask
 <img src="https://github.com/ryan10projects/Nft_4_Students/blob/main/transactions.PNG" width="600">
 
-### Purchase success
+### Transaction completed
 <img src="https://github.com/ryan10projects/Nft_4_Students/blob/main/Purchase%20complete.PNG" width="600">
 
 ### Listed NFts by User

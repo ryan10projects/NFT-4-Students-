@@ -6,9 +6,9 @@ import { Buffer } from "buffer";
 
 
 // const client = ipfsHttpClient('https://ipfs.infura.io:5001/api/v0')
-const projectId = "2MbIzbFsse2kq1HZV4VDOyt0iQ0";
-const projectSecret = "be7075945f2d0d010b3137481c244021";
-const subdomain = "https://beproject4.infura-ipfs.io";
+const projectId = "";
+const projectSecret = "";
+const subdomain = "";
 // Pay attentnion at the space between Basic and the $ in the next line
 // encrypt the authorization
 const authorization = `Basic ${Buffer.from(`${projectId}:${projectSecret}`).toString("base64")}`;
